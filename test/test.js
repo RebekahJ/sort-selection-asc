@@ -52,7 +52,7 @@ describe( 'sort-selection-asc', function tests() {
 		data = [ 14, -7, 4, 76, 30 ];
 		expected = [ -7, 4, 14, 30, 76 ];
 
-		// Apply bubble sort, modifying data
+		// Apply selection sort, modifying data
 		sel( data );
 
 		for ( var i = 0; i < data.length; i++ ){
