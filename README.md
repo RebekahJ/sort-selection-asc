@@ -43,11 +43,11 @@ For an unsorted array of size n, the time to sort the array using bubble sort is
 
 | *n*	        | *Time (ms)*   |
 | --------------| :------------:|
-| 5             |               |
-| 50            |               |
-| 500           |               |
-| 5000          |               |
-| 50000         |               |
+| 5             |     10.0      |
+| 50            |     10.1      |
+| 500           |     13.0      |
+| 5000          |     57.3      |
+| 50000         |     4541      |
 
 ## Tests
 
